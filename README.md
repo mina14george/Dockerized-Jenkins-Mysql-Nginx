@@ -35,7 +35,9 @@ A remote Ubuntu server is included in the setup. Ansible is used to interact wit
 
    ```bash
    git clone https://github.com/mina14george/Dockerized-Jenkins-Mysql-Nginx.git
-  
+   
+   cd Dockerized-Jenkins-Mysql-Nginx/
+	  
    ```
 
 2. Start the Docker containers using Docker Compose:
